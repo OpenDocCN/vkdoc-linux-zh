@@ -4,7 +4,7 @@
 > 
 > 敢同恶鬼争高下，不向霸王让寸分。——《七律·庆祝第二次核试验成功》
 
-* [在线阅读](https://linux3.flygon.net)
+* [在线阅读](https://vklinux.flygon.net)
 ## 下载
 
 ### Docker
